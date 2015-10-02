@@ -1,0 +1,10 @@
+E:\visual studio 2012\Projects\ZipAndUnzip\ZipAndUnzip\bin\Debug\ZipAndUnzip.exe.config
+E:\visual studio 2012\Projects\ZipAndUnzip\ZipAndUnzip\obj\Debug\ZipAndUnzip.csprojResolveAssemblyReference.cache
+E:\visual studio 2012\Projects\ZipAndUnzip\ZipAndUnzip\obj\Debug\ZipAndUnzip.Form1.resources
+E:\visual studio 2012\Projects\ZipAndUnzip\ZipAndUnzip\obj\Debug\ZipAndUnzip.Properties.Resources.resources
+E:\visual studio 2012\Projects\ZipAndUnzip\ZipAndUnzip\obj\Debug\ZipAndUnzip.csproj.GenerateResource.Cache
+E:\visual studio 2012\Projects\ZipAndUnzip\ZipAndUnzip\bin\Debug\ZipAndUnzip.exe
+E:\visual studio 2012\Projects\ZipAndUnzip\ZipAndUnzip\bin\Debug\ZipAndUnzip.pdb
+E:\visual studio 2012\Projects\ZipAndUnzip\ZipAndUnzip\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\visual studio 2012\Projects\ZipAndUnzip\ZipAndUnzip\obj\Debug\ZipAndUnzip.exe
+E:\visual studio 2012\Projects\ZipAndUnzip\ZipAndUnzip\obj\Debug\ZipAndUnzip.pdb
